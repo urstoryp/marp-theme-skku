@@ -39,13 +39,10 @@ section.lead {
 
 
 section.lead h1 {
-  color: rgb(43,102,83);
-  text-align: left;
-  background-image: url("skku_logo.jpg");
-  background-position: left;
-  background-repeat: no-repeat;
-  background-size: 110px;
-  padding-left: 110px;
+  background-color: rgb(43,102,83);
+  color: #fff;
+  font-size: 1em;
+  font-weight: 700;
 }
 section.lead h1 strong {
   -webkit-text-stroke: 1px rgb(43,102,83);;
@@ -87,7 +84,7 @@ section.lead p {
   font-size: 30px;
 }
 section p{
-  font-size: 22px;
+  font-size: 27px;
 }
 
 
